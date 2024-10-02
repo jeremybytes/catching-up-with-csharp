@@ -18,7 +18,7 @@ public class RegularPolygon
     public required int NumberOfSides { get; init; }
     public int SideLength { get; init; }
 
-    // C# 6 Expression-bodied function members
+    // C# 6 Expression-bodied members
     //public int GetPerimeter()
     //{
     //    return NumberOfSides * SideLength;
@@ -40,7 +40,7 @@ public class RegularPolygon
     // C# 6 Expression-bodied calculated properties
     public int Perimeter => NumberOfSides * SideLength;
 
-    // C# 6 Expression-bodied function members
+    // C# 6 Expression-bodied members
     public double GetArea() =>
         (SideLength * GetApothem() * NumberOfSides) / 2;
     private double GetApothem() =>

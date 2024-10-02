@@ -47,13 +47,6 @@ public class DataParser
 
     public (bool Success, int Value) ParseInt(string? input)
     {
-        // if/else conditional (been around for a loooooong time)
-        //bool success = int.TryParse(input, out int parsedValue);
-        //if (success)
-        //    return (true, parsedValue);
-        //else
-        //    return (false, default);
-
         // switch statement (been around for a loooooong time)
         //bool success = int.TryParse(input, out int parsedValue);
         //switch (success)
