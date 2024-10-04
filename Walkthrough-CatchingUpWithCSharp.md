@@ -135,6 +135,9 @@ public int NumberOfSides { get; set; } = 3;
 ```
 
 ### C# 6 Expression-bodied function members
+* Update ```Program.cs```  
+    * Comment out ```invalid```
+    * Uncomment ```triangle``` and ```square```
 ```csharp
 public int GetPerimeter() => NumberOfSides * SideLength;
 ```
