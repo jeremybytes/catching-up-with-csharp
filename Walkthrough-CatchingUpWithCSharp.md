@@ -376,6 +376,6 @@ await Parallel.ForEachAsync(numbers,
     });
 ```
 
-## Come up with a pithy ending to wrap everything up!
+## Pithy ending to wrap everything up!
 
 ---
