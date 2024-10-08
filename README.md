@@ -75,11 +75,20 @@ Here is a list of the C# features that are covered (in order of the live demo, n
 Note: This link jumps with C# 6. Scroll up to see other versions.
 
 **Additional Materials (and articles written by me)**  
+*Interfaces*  
 * [Catching Up with C# Interfaces](https://github.com/jeremybytes/csharp11-interfaces)  
 Session materials that dive into the various changes to interfaces in C# 8 and C# 11.  
 * [C# 8 Interfaces: Public, Private, and Protected Members](https://jeremybytes.blogspot.com/2019/11/c-8-interfaces-public-private-and.html)  
 * [C# 8 Interfaces: Static Members](https://jeremybytes.blogspot.com/2019/12/c-8-interfaces-static-members.html)  
 * [C# 8 Interfaces: Static Main -- Why Not?](https://jeremybytes.blogspot.com/2019/12/c-8-interfaces-static-main-why-not.html)  
 * [Misusing C#: Multiple Main() Methods](https://jeremybytes.blogspot.com/2020/06/misusing-c-multiple-main-methods.html)  
+
+*Nullability*  
+* Video: [Nullable Reference Types and Null Operators in C#](https://www.youtube.com/watch?v=xRxcfSyMD6Y)  
+* [Nullability in C# - What it is and What it is Not](https://jeremybytes.blogspot.com/2022/07/nullability-in-c-what-it-is-and-what-it.html)  
+* [Null Conditional Operators in C# - ?. and ?[]](https://jeremybytes.blogspot.com/2022/07/null-conditional-operators-in-c-and.html)  
+* [Null Forgiving Operator in C# - !](https://jeremybytes.blogspot.com/2022/07/null-forgiving-operator-in-c.html)  
+* [Null Coalescing Operators in C# - ?? and ??=](https://jeremybytes.blogspot.com/2022/07/null-coalescing-operators-in-c-and.html)  
+* [C# "var" with a Reference Type is Always Nullable](https://jeremybytes.blogspot.com/2023/02/c-var-with-reference-types-is-always.html)  
 
 ---
